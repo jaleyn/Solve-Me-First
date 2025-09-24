@@ -1,1 +1,1 @@
-# Solve-Me-First
+# Solve-Me-First This program reads two integers from the user, passes them to the solveMeFirst function, which returns their sum, and then prints the result. The solveMeFirst function simply adds the two input integers and returns the total.
